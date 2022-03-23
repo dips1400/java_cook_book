@@ -51,7 +51,7 @@ class PartTime extends Staff
                 }
 }
 
-class Slip17_1
+class A3_q3
 {
 
                 public static void main(String args[]) throws Exception
